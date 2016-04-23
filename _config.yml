@@ -1,26 +1,26 @@
-color:
-  saturation: 1
-  brandStrength: 0.2798066
-  rhythmicContrast: 0.6621912
-  brandColors:
-    - '#0A0809'
-    - '#453F3F'
-    - '#978B7B'
-    - '#BA081E'
-    - '#F8F3EF'
-  lightness: 0.06498389
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.06605798
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0.06498389
+  brandColors:
+    - '#0A0809'
+    - '#453F3F'
+    - '#978B7B'
+    - '#BA081E'
+    - '#F8F3EF'
+  rhythmicContrast: 0.6621912
+layout_spectrum: 1
 name: Echoalpha Eats
