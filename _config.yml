@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.06498389
+  brandStrength: 0.2798066
+  brandColors:
+    - '#0A0809'
+    - '#453F3F'
+    - '#978B7B'
+    - '#BA081E'
+    - '#F8F3EF'
+  rhythmicContrast: 0.6621912
+typography_spectrum: 0.06605798
+name: Echoalpha Eats
